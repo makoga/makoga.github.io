@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-06-26T11:16:07+09:00</updated><id>/</id><title>makoga&#39;s log</title><subtitle>Welcome to makoga&#39;s log.
+</subtitle><entry><title>挑戦し続けるために意識していること其の二：新しいことを学ぶときに最初のハードルを下げる2つの考え方</title><link href="/2014/vgadvent-1201" rel="alternate" type="text/html" title="挑戦し続けるために意識していること其の二：新しいことを学ぶときに最初のハードルを下げる2つの考え方" /><published>2014-12-01T00:00:00+09:00</published><updated>2014-12-01T00:00:00+09:00</updated><id>/2014/vgadvent-1201</id><content type="html" xml:base="/2014/vgadvent-1201">&lt;p&gt;※これは&lt;a href=&quot;http://tech.voyagegroup.com/archives/7941760.html&quot;&gt;VOYAGE GROUP エンジニアブログ：Advent Calendar 2014&lt;/a&gt;の1日目として書かれています。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;要約&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1人で始めるのではなく、仲間と始める。&lt;/li&gt;
+  &lt;li&gt;とにかく手を動かす。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;section-1&quot;&gt;序文&lt;/h2&gt;
+&lt;p&gt;さて、今年もトップバッターをつとめる事になりました。そこでまずは過去2回を振り返ってみたところ一昨年の自分のエントリが&lt;a href=&quot;http://ameblo.jp/makoga/entry-11417522711.html&quot;&gt;挑戦し続けるために意識していること其の一&lt;/a&gt;だったので満を持して其の二を書きたいと思います。この連載は2020年のAdvent Calendarで完結する予定です。(嘘&lt;/p&gt;
+
+&lt;p&gt;其の一では挑戦し続けるためには&lt;strong&gt;何事も出来る限り小さくする&lt;/strong&gt;ことが重要だと書きました。しかし経験のないことを小さく分割するのは実はとても難しいことですよね。挑戦するということは新しいことを学ぶ必要がありますが、自分では小さく始めたつもりが最初のハードルがなかなか越えられなくて達成感を得られないまま終了なんて経験はありませんか？私は何回もあります orz&lt;/p&gt;
+
+&lt;p&gt;例えば&lt;a href=&quot;https://voyagegroup.com/adtechunit/#technology&quot;&gt;アドテク座談会&lt;/a&gt;で@katzchangが「みんな基本使えるんですよ、プログラミング言語はなんでも。Hello, world!を立ち上げるのがたぶん一番難しくて」と言ってましたがこれは本当に正しいと思っています。最初のハードルを越えられれば何とかなるのですが、それが難しいんですよね。&lt;/p&gt;
+
+&lt;p&gt;そこで其の二では新しいことを学ぶときに最初のハードルを下げるための2つの考え方について書いていきます。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-2&quot;&gt;1つ目の考え方：1人で始めるのではなく、仲間と始める。&lt;/h2&gt;
+&lt;p&gt;VOYAGE GROUPでは読書会が頻繁に開かれています。7年以上前に第1期が開催され合計8グループくらい読了or継続しているSICP(&lt;a href=&quot;http://sicp.iijlab.net/fulltext/&quot;&gt;計算機プログラムの構造と解釈&lt;/a&gt;)や、最近だとhpbn(&lt;a href=&quot;http://www.oreilly.co.jp/books/9784873116761/&quot;&gt;ハイパフォーマンス ブラウザネットワーキング&lt;/a&gt;)やTAPL(&lt;a href=&quot;http://estore.ohmsha.co.jp/titles/978427406911P&quot;&gt;型システム入門&lt;/a&gt;)など。どれも素晴らしい内容ですが1人で読み進むのが難しいと感じる人も結構いるのではないでしょうか。VOYAGE GROUPでは、すでに読了している人にサポートしてもらったり、自分とは異なるスキルを持っている人に声をかけたり、同期で集まったりすることで最初のハードルを下げています。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;2つ目の考え方：とにかく手を動かす。&lt;/h2&gt;
+&lt;p&gt;VOYAGE GROUPではエンジニア向けインターンとして夏にTreasure、秋にSunriseを毎年開催しており、前半が講義＋演習、後半がグループワークという構成にしています。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tech.voyagegroup.com/archives/7866662.html&quot;&gt;圧倒的な成長を目指す「Treasure2014」（前編）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tech.voyagegroup.com/archives/7876446.html&quot;&gt;圧倒的な成長を目指す「Treasure2014」（後編）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tech.voyagegroup.com/archives/7940211.html&quot;&gt;100万人が使うWebサービスを創造せよ！！大規模サービス構築プログラム「Sunrise2014」&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;内容を検討するうえで私が口を酸っぱくして言っているのが学生に手を動かしてもらうことです。伝えたいことは山のようにありますが、講義で伝える量を減らしてでも手を動かす時間を増やすようにしてます。理由は手を動かしたほうが自分で気づくことが多いからです。最初のハードルを越えるためにモチベーションを維持するのは大変です。新しいことを学ぶときは、他の人から知識を聞くことも重要ですが、手を動かして自分の足りないところに気づくほうが何倍も重要だと考えています。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;まとめ&lt;/h2&gt;
+&lt;p&gt;私が新しいことを学ぶという挑戦をするときに意識していることを2つ紹介しました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1人で始めるのではなく、仲間と始める。
+    &lt;ul&gt;
+      &lt;li&gt;自分より理解が深い人&lt;/li&gt;
+      &lt;li&gt;自分とは異なるスキルを持ってる人&lt;/li&gt;
+      &lt;li&gt;同期など互いに切磋琢磨できる人&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;とにかく手を動かす。
+    &lt;ul&gt;
+      &lt;li&gt;手を動かすことで自分の足りないところに気づく&lt;/li&gt;
+      &lt;li&gt;上記によりゴールが明確になりモチベーションが高まる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;これから新しいことを学ぶ人にとって少しでもお役に立てれば幸いです。&lt;/p&gt;
+
+&lt;p&gt;明日はエンジニアではないけど果敢に挑戦を表明してくれた&lt;a href=&quot;https://twitter.com/tryal&quot;&gt;@tryalさん&lt;/a&gt;です。お楽しみに！&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;[PR]&lt;/strong&gt;
+VOYAGE GROUPでは&lt;a href=&quot;http://voyagegroup.com/crew/recruit/career/&quot;&gt;エンジニアを絶賛募集中&lt;/a&gt;です。
+少しでもご興味あれば&lt;a href=&quot;https://voyagegroup.com/adtechunit/#jobs&quot;&gt;ちょっと話を聞きたい方用フォーム&lt;/a&gt;や&lt;a href=&quot;https://www.wantedly.com/projects/12827&quot;&gt;話を聞いてみたいボタン&lt;/a&gt;からご連絡ください。&lt;a href=&quot;https://voyagegroup.com/adtechunit/#culture/5&quot;&gt;社内バーAJITO&lt;/a&gt;で気軽にお話しましょう。&lt;/p&gt;</content><summary>※これはVOYAGE GROUP エンジニアブログ：Advent Calendar 2014の1日目として書かれています。</summary></entry><entry><title>最適な技術で最高のプロダクトを！</title><link href="/2013/vgadvent-1201" rel="alternate" type="text/html" title="最適な技術で最高のプロダクトを！" /><published>2013-12-01T00:00:00+09:00</published><updated>2013-12-01T00:00:00+09:00</updated><id>/2013/vgadvent-1201</id><content type="html" xml:base="/2013/vgadvent-1201">&lt;p&gt;※これは&lt;a href=&quot;http://tech.voyagegroup.com/archives/7434017.html&quot;&gt;VOYAGE GROUP エンジニアブログ：Advent Calendar 2013&lt;/a&gt;の1日目として書かれています。&lt;/p&gt;
+
+&lt;p&gt;VOYAGE GROUPではプロダクトごとに最適な技術を選択する方針にしています。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;例. 広告配信システム
+    &lt;ul&gt;
+      &lt;li&gt;Scala, PHP, JavaScript, Scheme, R, nginx, Tomcat7, Fluentd, MySQL, AWS, GitHub, Jenkins&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;例. 広告配信システム
+    &lt;ul&gt;
+      &lt;li&gt;Erlang, PHP, JavaScript, Python, Fluentd, MySQL, オンプレミス, AWS, GitHub, Jenkins&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;例. Webメディア
+    &lt;ul&gt;
+      &lt;li&gt;PHP, Perl, MySQL, AWS, GitHub, Redmine&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;例. Webメディア
+    &lt;ul&gt;
+      &lt;li&gt;Ruby, Sinatra, MySQL, AWS, GitHub, Redmine&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;例. スマホメディア
+    &lt;ul&gt;
+      &lt;li&gt;Objective-C, Python, Perl, JavaScript, MySQL, GitHub&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;最適の判断は難しいですが、少なくとも「技術者の無意味なこだわり」や「目新しい技術を使ってみたいだけ」ではなく、ビジネス・ユーザ満足・システムのバランスを考えているかが重要だと考えています。
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/5171709/voyagescrew.png&quot; alt=&quot;VOYAGE SCREW&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;最適な技術を選択するためにはビジネス・ユーザ・技術を学び続ける必要があります。
+社内勉強会という効率的に学ぶ環境があるのはVOYAGE GROUPの良い文化の1つだと思います。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tech.voyagegroup.com/archives/7262109.html&quot;&gt;2013年6,7月に行われた社内勉強会の一部&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=684362434920806&amp;amp;set=a.637462756277441.1073741836.176439939046394&amp;amp;type=1&quot;&gt;統計学まったりナイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=683227761700940&amp;amp;set=a.365470036810049.90562.176439939046394&amp;amp;type=1&quot;&gt;PeXサイト設計ワークショップ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=678811135475936&amp;amp;set=a.365470036810049.90562.176439939046394&amp;amp;type=1&quot;&gt;ECナビ ショッピング勉強会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;アドテク勉強会　入門編、DMP編&lt;/li&gt;
+  &lt;li&gt;Scrum Fine-Tuning using Organizational Patterns&lt;/li&gt;
+  &lt;li&gt;などなど&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;※エンジニア達からは1番勉強になるのは&lt;a href=&quot;https://www.facebook.com/photo.php?fbid=672248816132168&amp;amp;set=a.365470036810049.90562.176439939046394&amp;amp;type=1&quot;&gt;#ajiting&lt;/a&gt;だという声も多いです。
+ご興味ある方は ＠tech_voyage までMentionをください。；）&lt;/p&gt;
+
+&lt;p&gt;これからも最適な技術を選択し、最高のプロダクトをつくっていきたいと思います！&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;明日は「さすがたじーさん」こと @s_tajima です。お楽しみに！&lt;/p&gt;</content><summary>※これはVOYAGE GROUP エンジニアブログ：Advent Calendar 2013の1日目として書かれています。</summary></entry></feed>
