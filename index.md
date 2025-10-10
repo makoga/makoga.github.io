@@ -6,12 +6,12 @@
 
 ## 経歴
 - 2010年 - 2021年
-    - 株式会社VOYAGE GROUP取締役CTO / 株式会社CARTA HOLDINGS執行役員CTOを歴任  
-    - 企画・監修した『Engineers in VOYAGE ― 事業をエンジニアリングする技術者たち』がITエンジニア本大賞2021で大賞＆特別賞のダブル受賞
+    - 株式会社VOYAGE GROUP 取締役CTO / [株式会社CARTA HOLDINGS](https://cartaholdings.co.jp/) 執行役員CTOを歴任  
+    - 企画・監修した[『Engineers in VOYAGE ― 事業をエンジニアリングする技術者たち』](https://www.lambdanote.com/products/engineers-in-voyage-ebook)が[ITエンジニア本大賞2021で大賞＆特別賞のダブル受賞](https://www.shoeisha.co.jp/campaign/award/2021/result/)
 - 2019年 - 現在
-    - 日本CTO協会の立ち上げから関わり、現在も理事 
+    - [日本CTO協会](https://cto-a.org/)の立ち上げから関わり、現在も理事 
 - 2023年4月 - 現在
-    - 部門執行役員(バクラク事業VPoE)を経て、現在はPrincipal / CTO室 室長
+    - [株式会社LayerX](https://layerx.co.jp/)に入社し、部門執行役員(バクラク事業VPoE)を経て、現在はPrincipal / CTO室 室長
 
 ---
 
