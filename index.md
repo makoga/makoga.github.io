@@ -23,7 +23,7 @@
 - [アーカイブ公開！Bet AI Day & 7Days LT を終えて — イベント責任者のふりかえり @Layerxエンジニアブログ](https://tech.layerx.co.jp/entry/betaiday-archive) 
 - [プロダクトチームのEMが実践している3つのマネジメント（戦略・達成・組織） @Layerxエンジニアブログ](https://tech.layerx.co.jp/entry/three-management-practices-of-em)
 - [LayerX入社時インタビュー @LayerX note](https://note.layerx.co.jp/n/hd9e8f2e381fc)
-- [日本CTO協会 | 新MVVができるまでのストーリーを大公開！（前編） @日本CTO協会 note](https://note.com/ctoa_ja/n/neab511b5f67e) / [日本CTO協会 | 新MVVができるまでのストーリーを大公開！（後編） @日本CTO協会 note](https://note.com/ctoa_ja/n/ne0f5b1299bf5)
+- [新MVVができるまでのストーリーを大公開！（前編） @日本CTO協会 note](https://note.com/ctoa_ja/n/neab511b5f67e) / [新MVVができるまでのストーリーを大公開！（後編） @日本CTO協会 note](https://note.com/ctoa_ja/n/ne0f5b1299bf5)
 - [2022年からCTO交代！新旧CTOが語るこれまでの10年とこれからのエンジニア組織と文化 / developers-summit-2022 @CARTA Engineering Speaker Deck](https://speakerdeck.com/carta_engineering/2022nian-karactojiao-dai-xin-jiu-ctogayu-rukoremadefalse10nian-tokorekarafalseenziniazu-zhi-towen-hua)
 - [面接時に見ているポイント @CARTA TECH BLOG](https://techblog.cartaholdings.co.jp/entry/2019/10/29/080000)
 - [CTOに就任してからの5年間、VOYAGE GROUPで変わったこと・変わらなかったこと @CARTA TECH BLOG](https://techblog.cartaholdings.co.jp/entry/2015/12/24/125931)
