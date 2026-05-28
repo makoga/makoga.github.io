@@ -4,6 +4,19 @@
 
 ---
 
+## プロフィール文
+
+### 50文字程度
+LayerX Principal / CTO室 室長。日本CTO協会理事。元CARTA CTO。
+
+### 100文字程度
+LayerX Principal / CTO室 室長。VOYAGE GROUP、CARTA HOLDINGSでCTOを歴任し、現職では組織マネジメント、技術広報に取り組む。日本CTO協会理事。
+
+### 300文字程度
+LayerX Principal / CTO室 室長。2010年にVOYAGE GROUPへ入社し、取締役CTOを務めた後、CARTA HOLDINGS 執行役員CTOを歴任。2023年にLayerXへ入社し、バクラク事業VPoEを経て現職。プロダクト開発組織、エンジニアリングマネジメント、技術広報、事業と技術をつなぐ組織づくりに取り組む。日本CTO協会の立ち上げから関わり、現在も理事を務める。企画・監修した『Engineers in VOYAGE』はITエンジニア本大賞2021で大賞・特別賞を受賞。
+
+---
+
 ## 経歴
 - 2010年 - 2021年
     - 株式会社VOYAGE GROUP 取締役CTO / [株式会社CARTA HOLDINGS](https://cartaholdings.co.jp/) 執行役員CTOを歴任  
