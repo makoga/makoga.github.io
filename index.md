@@ -10,7 +10,7 @@
 日本CTO協会理事。ex-LayerX / ex-CARTA・VOYAGE CTO。現在は探索期間。
 
 ### 100文字程度
-VOYAGE GROUP / CARTA HOLDINGSでCTOを歴任。LayerXではバクラク事業VPoE、Principal / CTO室 室長を担当。現在は心身のアップデートと探索期間。日本CTO協会理事。
+VOYAGE GROUP / CARTA HOLDINGSでCTOを歴任。LayerXではバクラク事業VPoE、Principal / CTO室 室長を務めた。現在は探索期間。日本CTO協会理事。
 
 ### 300文字程度
 2010年にVOYAGE GROUPへ入社し、取締役CTOを務めた後、CARTA HOLDINGS 執行役員CTOなど、未上場期から上場後まで約11年にわたりCTOを歴任。2023年にLayerXへ入社し、バクラク事業VPoE、Principal / CTO室 室長として、技術組織マネジメントや技術広報に従事。2026年5月末に退職し、現在は心身のアップデートと、これから取り組むテーマの探索期間。日本CTO協会の立ち上げに関わり、現在も理事を務める。企画・監修した『Engineers in VOYAGE』はITエンジニア本大賞2021で大賞・特別賞を受賞。
